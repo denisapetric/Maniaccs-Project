@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "product_id": 1,
+      "product_img": "necklaces.jpeg",
+      "title": "NECKLACES"
+    },
+    {
+      "product_id": 2,
+      "product_img": "rings.jpeg",
+      "title": "RINGS"
+    },
+    {
+      "product_id": 3,
+      "product_img": "earings.jpeg",
+      "title": "EARINGS"
+    }
+  ],
+  "popularProducts": [
+    {
+      "product_id": 1,
+      "product_img": "necklace1.jpeg"
+    },
+    {
+      "product_id": 2,
+      "product_img": "necklace2.jpeg"
+    },
+    {
+      "product_id": 3,
+      "product_img": "necklace3.jpeg"
+    },
+    {
+      "product_id": 4,
+      "product_img": "necklace4.jpeg"
+    },
+    {
+      "product_id": 5,
+      "product_img": "ring2.png"
+    },
+    {
+      "product_id": 6,
+      "product_img": "ring3.png"
+    }
+  ],
+  "necklaces": [
+    {
+      "product_id": "01",
+      "product_img": "necklace1.jpeg",
+      "product_price": "19.99 €"
+    },
+    {
+      "product_id": "02",
+      "product_img": "necklace2.jpeg",
+      "product_price": "19.99 €"
+    },
+    {
+      "product_id": "03",
+      "product_img": "necklace3.jpeg",
+      "product_price": "19.99 €"
+    },
+    {
+      "product_id": "04",
+      "product_img": "necklace4.jpeg",
+      "product_price": "19.99 €"
+    },
+    {
+      "product_id": "05",
+      "product_img": "necklace5.jpeg",
+      "product_price": "19.99 €"
+    },
+    {
+      "product_id": "06",
+      "product_img": "necklace6.jpeg",
+      "product_price": "19.99 €"
+    }
+  ],
+  "rings": [
+    {
+      "product_id": "01",
+      "product_img": "ring1.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "02",
+      "product_img": "ring2.png",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "03",
+      "product_img": "ring3.png",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "04",
+      "product_img": "ring4.png",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "05",
+      "product_img": "ring5.png",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "06",
+      "product_img": "ring6.png",
+      "product_price": "12.99 €"
+    }
+  ],
+  "earings": [
+    {
+      "product_id": "01",
+      "product_img": "earings1.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "02",
+      "product_img": "earings2.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "03",
+      "product_img": "earings3.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "04",
+      "product_img": "earings4.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "05",
+      "product_img": "earings5.jpeg",
+      "product_price": "12.99 €"
+    },
+    {
+      "product_id": "06",
+      "product_img": "earings6.png",
+      "product_price": "12.99 €"
+    }
+  ]
+}
